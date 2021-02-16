@@ -1,7 +1,7 @@
 {
-  "name": "redux-iTunes-search",
+  "name": "react-itunes-search",
   "version": "1.0.0",
-  "description": "Redux version of react-iTunes-search",
+  "description": "react-itunes-search using react and redux",
   "scripts": {
     "clean": "rimraf dist/",
     "build": "webpack -p --config ./webpack/webpack.config.babel.js --progress --colors --define process.env.NODE_ENV='\"production\"'",
@@ -22,8 +22,7 @@
     "ES6",
     "redux"
   ],
-  "author": "Leo Hsieh <leo0924@gmail.com> (http://leoj.js.org)",
-  "license": "MIT",
+  "author": "Aashi Piparsania(pipaashi1405@gmail.com)",
   "dependencies": {
     "classnames": "^2.2.5",
     "fecha": "^2.3.0",
