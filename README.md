@@ -1,4 +1,4 @@
-# redux-iTunes-search
+# react-itunes-search
 
 `Web application for itunes search using React and Redux`
 
