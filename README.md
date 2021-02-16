@@ -1,6 +1,6 @@
 # redux-iTunes-search
 
-:musical_note: :mag: Web app for iTunes search with React and Redux
+`Web application for itunes search using React and Redux`
 
 ## Installation
 
@@ -17,23 +17,3 @@ npm start
 ```
 
 and go to `localhost:3000`
-
-## Deploy
-
-Use webpack minify plugin
-
-```
-npm run deploy
-```
-
-## Lint
-
-run eslint, using [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) rules.
-
-```
-npm run lint
-```
-
-## License
-
-MIT
