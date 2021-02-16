@@ -8,9 +8,9 @@
 2. `cd redux-iTunes-search`
 3. `npm install`
 
-## Dev
+## How to run the web application:
 
-Run webpack dev server with [react-hot-loader](https://github.com/gaearon/react-hot-loader)
+Running webpack dev server: 
 
 ```
 npm start
